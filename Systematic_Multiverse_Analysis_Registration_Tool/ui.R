@@ -284,8 +284,7 @@ tabPanel(
                         regardless of defensibility. Please use the smaller text 
                         boxes underneath each decision node to list all options 
                         within that decision node, regardless of their defensibility. 
-                        [Insert instructions on how to add more boxes]. The full 
-                        multiverse for defensibility consideration will be presented 
+                        The full multiverse for defensibility consideration will be presented 
                         to you in the next step of the procedure.", style="text-align: justify;", style = "font-size:20px"),
                        div(id = "accordion_container_step1a"),
                        actionButton("add_step", "Add Node", class = "btn-primary", style = "margin-top: 10px;"),
