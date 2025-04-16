@@ -438,7 +438,7 @@ tabPanel(
                   style = "text-align: justify;", style = "font-size:20px"),
                 p("In the text box below, please enter the criterion for 
                         equivalence (e.g., signal-to-noise ratio, standardised 
-                        measurement error, interclass correlation coefficient).", 
+                        measurement error, intraclass correlation coefficient).", 
                   style = "text-align: justify;", style = "font-size:20px"),
                 textAreaInput("EquvalanceCriterion", "", width = 10000),
                 p("In the text box below, please set a threshold for equivalence 
