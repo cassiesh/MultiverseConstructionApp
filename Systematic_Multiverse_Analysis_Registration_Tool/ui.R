@@ -322,8 +322,7 @@ tabPanel(
             p("Using the radio buttons, please label each decision node and option 
                 as defensible or indefensible.", style="text-align: justify;", style = "font-size:20px"),
             p("Using the text boxes below, write the justifications that will 
-                be used for your defensibility decisions. Then [by dragging and 
-                dropping?] assign the relevant justifications to each defensible 
+                be used for your defensibility decisions. Then assign the relevant justifications to each defensible 
                 or indefensible label.", style="text-align: justify;", style = "font-size:20px"),
             p("This process ensures that only valid and justified elements are 
                 included in your analysis, promoting rigor and transparency.", 
